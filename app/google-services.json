@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "228687276928",
+    "firebase_url": "https://pokedex-st-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pokedex-st",
+    "storage_bucket": "pokedex-st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228687276928:android:6507345b1246313d02af65",
+        "android_client_info": {
+          "package_name": "cs.sitthisak.pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6HSdV2jx7cs773dSuqRp8W534ULIee8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
